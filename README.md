@@ -11,3 +11,7 @@
 <br><br><br>
 
 # Pengistalan
+
+git clone https://github.com/KANG-BAIT/Lock.git
+cd Lock
+sh Run.sh
