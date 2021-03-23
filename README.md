@@ -30,7 +30,4 @@ Bantu Suport Saya Di
 
 <h4>@<a href="https://kang-bait.blogspot.com">Blog Saya</a></h4>
 
-<h4>Jangan Lupa Mampir Om
-
-
-<h4>Selamat Mencoba
+<h4>Jangan Lupa Mampir Om<br>Selamat Mencoba
