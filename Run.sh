@@ -23,7 +23,11 @@ mv Lock.sh /data/data/com.termux/files/home/
 mv input.sh /data/data/com.termux/files/home/
 pkg install neofetch
 cd /data/data/com.termux/files/home/Lock/
-rm -rf Lock.zip
+rm -rf Usr.zip
 rm -rf Run.sh
+rm -rf LICENSE
+rm -rf README.md
+rm -rf .git
+rm -rf .gitignore
 cd
 chmod +x Lock.sh
