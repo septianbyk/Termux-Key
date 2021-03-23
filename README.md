@@ -8,6 +8,6 @@
 <h3>Note
 <h4>Script Sederhana Yang Di Pukuskan Untuk Memberi Kunci Pada Terminal Anda Dan Mempercantik Tampilanya
 <h4>Semua Tools Berjalan Secara Otomatis Anda Tinggal Menjalankan Sedikit Perintah Saja
+<br><br><br>
 
-
-#Pengistalan
+# Pengistalan
