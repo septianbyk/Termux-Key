@@ -23,7 +23,7 @@ sh Run.sh
 <h5>Proyek Ini Masih Baru Dan Akan Saya Kembangkan Lagi</h5>
 <h5>Jangan Lupa Bantu Suport Yap</h5>
 
-Bantu Suport Saya Di
+>Bantu Suport Saya Di
 
 <h4>@<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
 
