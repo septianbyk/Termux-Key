@@ -17,3 +17,14 @@ git clone https://github.com/KANG-BAIT/Lock.git
 cd Lock
 
 sh Run.sh
+
+
+
+<h5>Proyek Ini Masih Baru Dan Akan Saya Kembangkan Lagi 
+Jangan Lupa Bantu Suport Yap
+
+Bantu Suport Saya Di
+<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a>
+<a href="https://kang-bait.blogspot.com>Blog Saya</a>
+
+<h4>Selamat Mencoba
