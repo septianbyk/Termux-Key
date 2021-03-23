@@ -25,10 +25,10 @@ sh Run.sh
 
 Bantu Suport Saya Di
 
-<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a>
+<h4>@<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
 
 
-<a href="https://kang-bait.blogspot.com">Blog Saya</a>
+<h4><a href="https://kang-bait.blogspot.com">Blog Saya</a></h4>
 
 
 <h4>Selamat Mencoba
