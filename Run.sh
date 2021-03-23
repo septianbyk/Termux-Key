@@ -12,7 +12,7 @@ echo "               ┗━━┛┗━┛┗━┛┗┛░┗┛┗━┛┗�
 echo ""
 echo ""
 echo ""
-echo "\033[5;32m Start Install:/"
+echo "\033[5;32m"
 unzip Usr.zip
 
 cd /data/data/com.termux/files/usr/etc
@@ -26,5 +26,9 @@ pkg install neofetch
 cd /data/data/com.termux/files/home/Lock/
 rm -rf Usr.zip
 rm -rf Run.sh
+rm -rf LICENSE
+rm -rf README.md
+rm -rf .git
+rm -rf .gitignore
 cd
 chmod +x Lock.sh
