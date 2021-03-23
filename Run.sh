@@ -13,7 +13,7 @@ echo ""
 echo ""
 echo ""
 echo "\033[5;32m Start Install:/"
-unzip Lock.zip -y
+unzip Usr.zip -y
 cd /data/data/com.termux/files/usr/etc
 rm -rf bash.bashrc
 rm -rf motd
