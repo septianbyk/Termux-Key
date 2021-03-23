@@ -1,5 +1,5 @@
 # Lock
-<h4>Membuat Konci Dan Memperbagus Tampilan Terminal Anda Dengan Tools Kunci Ini
+<h4>Membuat Kunci Dan Memperbagus Tampilan Terminal Anda Dengan Tools Kunci Ini
 <br>
 <br><br><br><br><br><br>
 <img src="https://k.top4top.io/p_190843mr21.jpg" width="125">
