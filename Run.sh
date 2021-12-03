@@ -17,7 +17,10 @@ echo "\033[5;32m"
 cd /data/data/com.termux/files/usr/etc
 rm -rf bash.bashrc
 rm -rf motd
-cd /data/data/com.termux/files/home/Termux-Key/Lock/Usr/
+cd /data/data/com.termux/files/home/Termux-Key/Lock/
+mv input.sh /data/data/com.termux/files/home/
+mv lock.sh /data/data/com.termux/files/home/
+mv output.sh /data/data/com.termux/files/home/
 mv bash.bashrc /data/data/com.termux/files/usr/etc/
 cd  /data/data/com.termux/files/home/Termux-Key/
 mv Lock /data/data/com.termux/files/home/
