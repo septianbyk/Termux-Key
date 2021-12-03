@@ -13,11 +13,15 @@
 # Pengistalan
 
 
---------------------------------------------------
+-------------------------------------------------------------------------
 
-git clone https://github.com/KANG-BAIT/Lock.git && cd Lock && sh Run.sh
+    git clone https://github.com/KANG-BAIT/Lock.git && cd Lock && sh Run.sh
 
 
+
+
+
+<br><br>
 
 <h5>Proyek Ini Masih Baru Dan Akan Saya Kembangkan Lagi</h5>
 <h5>Jangan Lupa Bantu Suport Yap</h5>
