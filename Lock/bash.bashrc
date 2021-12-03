@@ -10,7 +10,7 @@ shopt -s histappend
 shopt -s histverify
 export HISTCONTROL=ignoreboth
 
-sh Lock/Lock.sh
+sh Lock.sh
 
 # Default command line prompt.
 PROMPT_DIRTRIM=2
