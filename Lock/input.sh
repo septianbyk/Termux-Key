@@ -18,7 +18,7 @@ echo "\033[5;32m"
 read -p "Masukan Password: " pass
 case $pass in
 $pas)cd 
-cd Lockl
+cd Lock/
 sh Home.sh;;
 *)sh output.sh ;;
 esac
