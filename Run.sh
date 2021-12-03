@@ -18,12 +18,12 @@ unzip Usr.zip
 cd /data/data/com.termux/files/usr/etc
 rm -rf bash.bashrc
 rm -rf motd
-cd /data/data/com.termux/files/home/Termux-Key/Usr
+cd /data/data/com.termux/files/home/Termux-Key/Usr/
 mv bash.bashrc /data/data/com.termux/files/usr/etc/
 mv Lock.sh /data/data/com.termux/files/home/
 mv input.sh /data/data/com.termux/files/home/
 pkg install neofetch
-cd /data/data/com.termux/files/home/Lock/
+cd /data/data/com.termux/files/home/Termux-Key/
 rm -rf Usr.zip
 rm -rf Run.sh
 rm -rf LICENSE
