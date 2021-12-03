@@ -18,8 +18,7 @@ echo "\033[5;32m"
 read -p "Masukan Password: " pass
 case $pass in
 $pas)cd 
-cd /data/data/com.termux/files/home/Lock/Usr
+cd Lockl
 sh Home.sh;;
-*) cd /data/data/com.termux/files/home/Lock/
-sh output.sh ;;
+*)sh output.sh ;;
 esac
