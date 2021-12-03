@@ -23,10 +23,9 @@
 
 <br><br>
 
-<h5>Proyek Ini Masih Baru Dan Akan Saya Kembangkan Lagi</h5>
-<h5>Jangan Lupa Bantu Suport Yap</h5>
 
->Bantu Suport Saya Di
+
+<h2>@Suport</h2>
 
 <h4>@<a href="https://youtube.com/c/KangBaIT">Chanel Saya</a></h4>
 
