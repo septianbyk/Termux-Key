@@ -17,6 +17,8 @@ echo "Password Salah"
 echo "\033[5;32m"
 read -p "Masukan Password: " pass
 case $pass in
-$pas)sh Usr/Home.sh;;
-*) sh input.sh ;;
+$pas)cd /data/data/com.termux/files/home/Lock/Usr/
+sh Home.sh;;
+*)cd /data/data/com.termux/files/home/Lock/
+sh input.sh ;;
 esac
