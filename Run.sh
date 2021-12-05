@@ -31,3 +31,5 @@ rm -rf LICENSE
 rm -rf README.md
 rm -rf .git
 rm -rf .gitignore
+cd /data/data/com.termux/files/home/
+rm -rv Termux-Key
