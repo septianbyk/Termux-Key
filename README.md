@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------
 
-    git clone https://github.com/KANG-BAIT/Lock.git && cd Lock && sh Run.sh
+    git clone https://github.com/BAIT-LINUX/Termux-Key && cd Termux-Key && sh Run.sh
 
 
 
